@@ -22,5 +22,4 @@ public class genisleyen {
     System.out.println("float f = " + f2);
     System.out.println("double d = " + d);
    } 
-
 }

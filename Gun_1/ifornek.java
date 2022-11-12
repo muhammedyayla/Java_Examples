@@ -28,6 +28,5 @@ public class ifornek {
         else {
             System.out.println("Geçerli not giriniz");
         }
-
     }
 }

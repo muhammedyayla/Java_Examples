@@ -3,7 +3,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
 public class fatura_hesap {
     public static void main(String[] args) throws IOException {
         InputStreamReader isr = new InputStreamReader(System.in);
